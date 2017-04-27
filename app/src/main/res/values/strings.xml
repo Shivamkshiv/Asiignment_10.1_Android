@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Material_Design</string>
+    <string name="click_me">Click Me</string>
+    <string name="thanks_its_working">Thanks its Working</string>
+</resources>
